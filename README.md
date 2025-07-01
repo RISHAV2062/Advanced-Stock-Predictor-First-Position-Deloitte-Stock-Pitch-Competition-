@@ -1,4 +1,4 @@
-# Advanced Stock Predictor Project
+# Advanced Stock Predictor Project: First Position Deloittee Stock Pitch COmpetition 2025 @ Vanderbilt
 
 ## Overview
 
@@ -224,3 +224,5 @@ Contributions are welcome through pull requests. Please follow the established c
 ## Contact Information
 
 For technical support, feature requests, or business inquiries, please contact the development team through the official project channels.
+Email: rishav.c.acharya@vanderbilt.edu
+Phone: 615-481-7529
