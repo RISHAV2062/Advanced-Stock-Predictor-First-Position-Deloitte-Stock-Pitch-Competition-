@@ -1,4 +1,4 @@
-# Advanced Stock Predictor Project: First Position Deloittee Stock Pitch COmpetition 2025 @ Vanderbilt
+# Advanced Stock Predictor Project: First Position Deloittee Stock Pitch Competition 2025 @ Vanderbilt
 
 ## Overview
 
